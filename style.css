@@ -1,0 +1,48 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.hero-section {
+  background-color: rgba(229, 84, 115, 0.1);
+  height: 850px;
+}
+
+.hero-section-wrapper {
+  width: 80vw;
+  margin: 0px auto;
+  display: flex;
+}
+
+.hero-section-left h1 {
+  color: #272727;
+  text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  font-family: Lato;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.hero-section-left p {
+  color: rgba(39, 39, 39, 0.6);
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.hero-section-left button {
+  padding: 20px 43px;
+  border-radius: 8px;
+  background: #e55473;
+  color: white;
+}
+
+.hero-section-right img {
+  margin-top: 50px;
+  height: 800;
+  width: 635;
+}
